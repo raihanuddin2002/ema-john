@@ -1,0 +1,7 @@
+.text-center {
+  text-align: center;
+}
+.hide-scrollbar {
+  -ms-overflow-style: none !important; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}

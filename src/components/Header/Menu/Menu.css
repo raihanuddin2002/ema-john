@@ -1,0 +1,25 @@
+.menu {
+  background-color: black;
+  display: flex;
+  justify-content: center;
+}
+.menu li {
+  list-style: none;
+  margin-right: 10px;
+  padding: 10px;
+}
+.menu li:hover {
+  background-color: rgba(245, 245, 245, 0.336);
+}
+.menu li {
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+}
+.nav-link {
+  text-decoration: none;
+}
+.active {
+  color: red;
+  text-decoration: underline;
+}
